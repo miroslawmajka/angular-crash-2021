@@ -10,13 +10,13 @@ This is the project from the [YouTube crash course](https://youtu.be/3dHNOWTI7H8
 npm install
 ```
 
-### Run Angular server (http://localhost:4200)
+### Run Angular server (http://localhost:4201)
 
 ```
-ng serve
+npm start
 ```
 
-### Run the JSON server (http://localhost:5000)
+### Run the JSON server (http://localhost:5001)
 
 ```
 npm run server
@@ -25,5 +25,5 @@ npm run server
 ### To build for production
 
 ```
-ng build
+npm run build
 ```
